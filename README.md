@@ -1,11 +1,10 @@
-# random_press_sound
-An LED chaser on Atmega 168
-Before closing the box:
+# An LED chaser on Atmega168
+Before closing the box:<br>
 
 ![Before closing the box](images/open_box.jpg)
 
-Finished project:
+Finished project:<br>
 ![Finished](images/finished.jpg)
 
-Demo:
+Demo:<br>
 ![Demo](images/demo.gif)
